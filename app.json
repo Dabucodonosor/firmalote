@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "FirmaLote",
+    "slug": "firmalote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.alfredonunez.firmalote",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#2F5BEA",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "owner": "aanunezs-team",
+    "extra": {
+      "eas": {
+        "projectId": "f2647341-1bef-4511-afdf-3c007daa3695"
+      }
+    }
+  }
+}
